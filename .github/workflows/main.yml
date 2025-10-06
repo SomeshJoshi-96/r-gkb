@@ -1,4 +1,4 @@
-name: deploy VeeRAxZ
+name: deploy DSTAR
 
 on:
   push:
